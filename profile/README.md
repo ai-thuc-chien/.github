@@ -5,7 +5,7 @@
 **Cuộc thi về Trí tuệ Nhân tạo ĐẦU TIÊN trên sóng Truyền hình Quốc gia**
 
 [![Website](https://img.shields.io/badge/Website-thucchien.ai-blue?style=for-the-badge)](https://thucchien.ai)
-[![Competition](https://img.shields.io/badge/Status-Đang%20Mở%20Đăng%20Ký-success?style=for-the-badge)](https://thucchien.ai)
+[![Competition](https://img.shields.io/badge/Status-Thi%20vòng%203%20-success?style=for-the-badge)](https://thucchien.ai)
 [![Prize](https://img.shields.io/badge/Giải%20Thưởng-1%20Tỷ%20VNĐ%20+%201M%20USD-gold?style=for-the-badge)](https://thucchien.ai)
 
 </div>
