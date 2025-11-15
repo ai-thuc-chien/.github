@@ -176,17 +176,6 @@ Cuộc thi **AI Thực Chiến** hướng tới ba mục tiêu lớn:
 2. **Xây dựng mô hình AI nền tảng tiếng Việt:** Phát triển LLM/SLM mã nguồn mở cho Việt Nam
 3. **Làm chủ công nghệ AI:** Góp phần hiện thực hóa Nghị quyết 57-NQ/TW, đưa Việt Nam trở thành trung tâm đổi mới sáng tạo trong khu vực
 
----
-
-<div align="center">
-
-### 🚀 **"AI Thực Chiến - Nơi trí tuệ Việt Nam hội tụ, khát vọng công nghệ bùng nổ"**
-
-**Đăng ký ngay:** [thucchien.ai](https://thucchien.ai)
-
-[![Register Now](https://img.shields.io/badge/🎯_ĐĂNG_KÝ_NGAY-FF0000?style=for-the-badge)](https://thucchien.ai)
-
-</div>
 
 ---
 
