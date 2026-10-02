@@ -1,5 +1,7 @@
 <div align="center">
 
+<a href="https://thucchien.ai"><img src="https://raw.githubusercontent.com/ai-thuc-chien/.github/main/profile/banner.webp" alt="AI Thực Chiến — Dẫn lối trí tuệ Việt, kiến tạo nhân tài AI. Giải thưởng đặc biệt 1 triệu USD của Techcombank + Giải Nhất 1 tỷ đồng tiền mặt" width="100%"></a>
+
 # 🚀 AI THỰC CHIẾN
 
 ### Cuộc thi Trí tuệ Nhân tạo ĐẦU TIÊN trên sóng truyền hình Quốc gia
