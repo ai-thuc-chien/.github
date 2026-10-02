@@ -7,7 +7,7 @@
 _Tìm kiếm nhân tài AI quốc gia · Xây dựng mô hình Multimodal/LLM/SLM tiếng Việt · Make in Vietnam_
 
 [![Website](https://img.shields.io/badge/Website-thucchien.ai-1f6feb?style=for-the-badge)](https://thucchien.ai)
-[![Mùa 2026](https://img.shields.io/badge/M%C3%B9a-2026-8957e5?style=for-the-badge)](https://thucchien.ai)
+[![Mùa mới](https://img.shields.io/badge/M%C3%B9a-M%E1%BB%9Bi-8957e5?style=for-the-badge)](https://thucchien.ai)
 [![Đăng ký](https://img.shields.io/badge/%C4%90%C4%83ng%20k%C3%BD-%C4%90%C3%A3%20%C4%91%C3%B3ng-6e7681?style=for-the-badge)](https://thucchien.ai/#registration)
 [![Giải đặc biệt](https://img.shields.io/badge/Gi%E1%BA%A3i%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t-1%20tri%E1%BB%87u%20USD%20%2B%201%20t%E1%BB%B7%20%C4%91%E1%BB%93ng-d4a017?style=for-the-badge)](https://thucchien.ai)
 [![Gala](https://img.shields.io/badge/Gala%20trao%20gi%E1%BA%A3i-01%2F2027-e5534b?style=for-the-badge)](https://thucchien.ai)
@@ -24,7 +24,7 @@ _Tìm kiếm nhân tài AI quốc gia · Xây dựng mô hình Multimodal/LLM/SL
 
 Cuộc thi do **Đài Truyền hình Việt Nam (VTV)**, **Trung tâm Dữ liệu Quốc gia (NDC)**, **Hiệp hội Dữ liệu Quốc gia (NDA)** và **Techcombank** tổ chức, dưới sự bảo trợ của **Bộ Công an**, theo tinh thần **Nghị quyết 57-NQ/TW** về đột phá phát triển khoa học, công nghệ và đổi mới sáng tạo.
 
-> ⏳ **Trạng thái:** Cổng đăng ký mùa 2026 (19/06 – 30/09/2026) **đã đóng**. Theo dõi [website](https://thucchien.ai) và [fanpage](https://www.facebook.com/people/AI-Th%E1%BB%B1c-chi%E1%BA%BFn/61579169807958/) để nhận thông báo mới nhất từ Ban Tổ chức.
+> ⏳ **Trạng thái:** Cổng đăng ký mùa mới (19/06 – 30/09/2026) **đã đóng**. Theo dõi [website](https://thucchien.ai) và [fanpage](https://www.facebook.com/people/AI-Th%E1%BB%B1c-chi%E1%BA%BFn/61579169807958/) để nhận thông báo mới nhất từ Ban Tổ chức.
 
 ## 🏆 Hệ thống giải thưởng
 
@@ -131,7 +131,7 @@ Quy tụ chuyên gia đầu ngành về trí tuệ nhân tạo, dữ liệu, kh�
 
 _Thông tin được tổng hợp từ [thucchien.ai](https://thucchien.ai). Lịch trình và cơ cấu giải thưởng có thể điều chỉnh, vui lòng tham khảo thông báo chính thức của Ban Tổ chức._
 
-**© 2026 AI Thực Chiến — VTV · NDC · NDA · Techcombank**
+**© AI Thực Chiến — VTV · NDC · NDA · Techcombank**
 
 _Made with ❤️ for Vietnamese AI Community_
 
